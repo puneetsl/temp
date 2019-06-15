@@ -1,17 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-  <key>DisplayProductName</key>
-  <string>G257HU - forced RGB mode (EDID override)</string>
-  <key>IODisplayEDID</key>
-  <data>AP///////wAEchYEQEMQUAEZAQOANx945kRVqVVNnSYPUFS/74BxT4FAgYCB
-wIEAlQCzANHAVl4AoKCgKVAwIDUAKDchAAAaAAAA/QA4TB9ZGQAKICAgICAg
-AAAA/ABHMjU3SFUKICAgICAgAAAA/wBUMVdBQTAwMTI0MDAKAI4=
-</data>
-  <key>DisplayVendorID</key>
-  <integer>1138</integer>
-  <key>DisplayProductID</key>
-  <integer>1046</integer>
-</dict>
+    <dict>
+        <key>DisplayProductID</key>
+            <integer>1046</integer>
+        <key>DisplayVendorID</key>
+            <integer>1138</integer>
+        <key>IODisplayEDID</key>
+            <data>AP///////wAEchYEQEMQUAEZAQSQNx947kRVqVVNnSYPUFS/74BxT4FAgYCBwIEAlQCzANHAVl4AoKCgKVAwIDUAKDchAAAaAAAA/QA4TB9ZGQAKICAgICAgAAAA/ABHMjU3SFUKICAgICAgAAAA/wBUMVdBQTAwMTI0MDAKAXQ=</data>
+        <key>scale-resolutions</key>
+            <array>
+                <data>AAAQAAAACQAA</data>
+                <data>AAAPAAAACHAA</data>
+                <data>AAANIAAAB2AA</data>
+                <data>AAALQAAABlQA</data>
+                <data>AAAKAAAABaAA</data>
+                <data>AAAIAAAABIAAAAABACAAAA==</data>
+                <data>AAAHgAAABDgAAAAB</data>
+                <data>AAAQAAAACQAAAAAJAKAAAA==</data>
+                <data>AAAPAAAACHAAAAAJAKAAAA==</data>
+                <data>AAAKAAAABkAAAAABACAAAA==</data>
+                <data>AAAKAAAABaAAAAABACAAAA==</data>
+                <data>AAAHgAAABLAAAAABACAAAA==</data>
+                <data>AAAHgAAABDgAAAABACAAAA==</data>
+                <data>AAAFAAAAAtAAAAABACAAAA==</data>
+                <data>AAAGkAAAA7AAAAAB</data>
+                <data>AAAGQAAAA4QAAAAB</data>
+                <data>AAAFoAAAAyoAAAAB</data>
+                <data>AAAFAAAAAtAAAAAB</data>
+                <data>AAAEgAAAAogAAAAB</data>
+                <data>AAAEAAAAAkAAAAAB</data>
+                <data>AAADSAAAAdQAAAAB</data>
+                <data>AAADIAAAAcIAAAAB</data>
+                <data>AAACgAAAAWgAAAAB</data>
+                <data>AAANIAAAB2AAAAAJAKAAAA==</data>
+                <data>AAALQAAABlQAAAAJAKAAAA==</data>
+                <data>AAAKAAAABaAAAAAJAKAAAA==</data>
+                <data>AAAIAAAABIAAAAAJAKAAAA==</data>
+                <data>AAAHgAAABDgAAAAJAKAAAA==</data>
+                <data>AAAGkAAAA7AAAAAJAKAAAA==</data>
+                <data>AAAGQAAAA4QAAAAJAKAAAA==</data>
+                <data>AAAFAAAAAtAAAAAJAKAAAA==</data>
+            </array>
+        <key>target-default-ppmm</key>
+            <real>10.0699301</real>
+    </dict>
 </plist>
