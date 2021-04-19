@@ -6,33 +6,31 @@
             <integer>30507</integer>
         <key>DisplayVendorID</key>
             <integer>7789</integer>
+        <key>IODisplayEDID</key>
+            <data>AP///////wAebSt3drwFAAYeAQSQUCJ45sqVplVOoSYPUFQhCABxQIGAgcCpwLMA0cCBAAEB53xwoNCgKVAwIDoAIE8xAAAanWdwoNCgIlAwIDoAIE8xAAAaAAAA/QA4PR5aIAAKICAgICAgAAAA/ABMRyBIRFIgV1FIRAogATk=</data>
         <key>scale-resolutions</key>
             <array>
-                <data>AAAa4AAAC0AAAAAB</data>
+                <data>AAAa4AAAC0AA</data>
+                <data>AAAYMAAACiAA</data>
+                <data>AAAVgAAACQAA</data>
+                <data>AAAS0AAAB+AA</data>
+                <data>AAAQIAAABsAA</data>
+                <data>AAANcAAABaAA</data>
                 <data>AAAa4AAAC0AAAAABACAAAA==</data>
-                <data>AAAKoAAABfoAAAABACAAAA==</data>
-                <data>AAAKAAAABkAAAAABACAAAA==</data>
-                <data>AAAKAAAABaAAAAABACAAAA==</data>
-                <data>AAAHgAAABLAAAAABACAAAA==</data>
-                <data>AAAHgAAABDgAAAABACAAAA==</data>
-                <data>AAAFAAAAAtAAAAABACAAAA==</data>
+                <data>AAAYMAAACiAAAAABACAAAA==</data>
+                <data>AAAVgAAACQAAAAABACAAAA==</data>
+                <data>AAAKwAAABIAAAAABACAAAA==</data>
+                <data>AAAIEAAAA2AAAAABACAAAA==</data>
+                <data>AAAa4AAAC0AAAAAB</data>
+                <data>AAAYMAAACiAAAAAB</data>
+                <data>AAAVgAAACQAAAAAB</data>
+                <data>AAAHgAAABDgAAAAB</data>
                 <data>AAAGkAAAA7AAAAAB</data>
-                <data>AAAGQAAAA4QAAAAB</data>
-                <data>AAAFoAAAAyoAAAAB</data>
-                <data>AAAFAAAAAtAAAAAB</data>
-                <data>AAAEgAAAAogAAAAB</data>
-                <data>AAAEAAAAAkAAAAAB</data>
-                <data>AAADSAAAAdQAAAAB</data>
-                <data>AAADIAAAAcIAAAAB</data>
-                <data>AAACgAAAAWgAAAAB</data>
-                <data>AAANIAAAB2IAAAAJAKAAAA==</data>
-                <data>AAALQAAABlQAAAAJAKAAAA==</data>
-                <data>AAAKAAAABaAAAAAJAKAAAA==</data>
-                <data>AAAIAAAABIAAAAAJAKAAAA==</data>
-                <data>AAAHgAAABDgAAAAJAKAAAA==</data>
-                <data>AAAGkAAAA7AAAAAJAKAAAA==</data>
-                <data>AAAGQAAAA4QAAAAJAKAAAA==</data>
-                <data>AAAFAAAAAtAAAAAJAKAAAA==</data>
+                <data>AAAa4AAAC0AAAAAJAKAAAA==</data>
+                <data>AAAYMAAACiAAAAAJAKAAAA==</data>
+                <data>AAAVgAAACQAAAAAJAKAAAA==</data>
+                <data>AAAQAAAACQAAAAAJAKAAAA==</data>
+                <data>AAAPAAAACHAAAAAJAKAAAA==</data>
             </array>
         <key>target-default-ppmm</key>
             <real>10.0699301</real>
